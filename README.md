@@ -2,10 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Hello World</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Hello World](https://github.com/Ppavthawala777/priyankacybertest/edit/main/README.md)
+  - [Active Directory Home Lab](https://github.com/Ppavthawala777/priyankacybertest/edit/main/README.md)
 
 <h2> Certifications</h2>
 
@@ -15,7 +13,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="Priyankapavthawala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://www.linkedin.com/in/priyanka-pavthawala-96107718a/
+<img align="left" alt="Priyankapavthawala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/priyanka-pavthawala-96107718a/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
