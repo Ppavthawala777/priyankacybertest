@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Hello World](https://github.com/Ppavthawala777/priyankacybertest/edit/main/README.md)
   - [Active Directory Home Lab](https://github.com/Ppavthawala777/priyankacybertest/edit/main/README.md)
+  - [Vulnerability Assessment](https://github.com/Ppavthawala777/priyankacybertest/edit/main/README.md)
+  - [File Integrity](https://github.com/Ppavthawala777/priyankacybertest/edit/main/README.md)
+  - [Rest API](https://github.com/Ppavthawala777/priyankacybertest/edit/main/README.md)
+  - [SIEM in Azure](https://github.com/Ppavthawala777/priyankacybertest/edit/main/README.md)
 
 <h2> Certifications</h2>
 
